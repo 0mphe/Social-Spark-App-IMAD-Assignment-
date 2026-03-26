@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
                 "morning" -> "send a 'Good Morning' message to a family member."
                 "mid-morning" -> "send a 'Thank you' message to a colleague."
                 "afternoon" -> "share a funny meme with a friend."
+                "afternoon snack time"->"Send a quick 'Thinking of you' message to a friend."
                 "snack" -> "send a 'Thinking of you' message."
                 "dinner" -> "Call a friend for a 5-minute catch-up."
                 "night" -> "Leave a thoughtful comment on a friend's post."
